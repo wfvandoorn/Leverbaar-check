@@ -1,82 +1,122 @@
 [
   {
-    "name": "Oxazepam 10 mg",
-    "country": "NL",
-    "status": "limited",
-    "reason": "Beperkt leverbaar",
-    "detail": "Productieproblemen",
-    "alternatives": ["Diazepam 5 mg", "Lorazepam 1 mg"]
-  },
-  {
-    "name": "Diazepam 10 mg",
-    "country": "NL",
-    "status": "available",
-    "reason": "Leverbaar bij groothandel",
-    "detail": "",
-    "alternatives": []
-  },
-  {
-    "name": "Lorazepam 1 mg",
+    "name": "Ritalin 10 mg",
     "country": "NL",
     "status": "available",
     "reason": "Ruim beschikbaar",
-    "detail": "Geen meldingen",
-    "alternatives": ["Oxazepam", "Diazepam"]
+    "detail": "Stimulans bij ADHD",
+    "alternatives": ["Concerta", "Equasym", "Methylfenidaat TEVA"]
   },
   {
-    "name": "Methylfenidaat 10 mg",
+    "name": "Concerta 18 mg",
     "country": "NL",
     "status": "available",
-    "reason": "Leverbaar",
-    "detail": "Verkrijgbaar als tablet en retardvorm",
-    "alternatives": ["Concerta", "Equasym"]
+    "reason": "Verkrijgbaar via Janssen",
+    "detail": "Langwerkende methylfenidaat",
+    "alternatives": ["Ritalin", "Medikinet"]
   },
   {
-    "name": "Bupropion 150 mg",
-    "country": "NL",
-    "status": "available",
-    "reason": "Leverbaar via meerdere fabrikanten",
-    "detail": "Wordt gebruikt bij depressie en rookstop. Let op verhoogd risico op toevallen bij hoge dosering.",
-    "alternatives": ["Venlafaxine", "Sertraline"]
-  },
-  {
-    "name": "Sertraline 50 mg",
-    "country": "NL",
-    "status": "available",
-    "reason": "Leverbaar",
-    "detail": "SSRI, gebruikt bij depressie en angststoornissen",
-    "alternatives": ["Escitalopram", "Venlafaxine"]
-  },
-  {
-    "name": "Paracetamol 500 mg",
-    "country": "NL",
-    "status": "available",
-    "reason": "Altijd beschikbaar",
-    "detail": "Vrij verkrijgbaar",
-    "alternatives": []
-  },
-  {
-    "name": "Tramadol 50 mg",
-    "country": "NL",
-    "status": "limited",
-    "reason": "Beperkte distributie",
-    "detail": "Sommige groothandels hebben vertraging",
-    "alternatives": ["Oxycodon", "Paracetamol-codeïne"]
-  },
-  {
-    "name": "Cetirizine 10 mg",
-    "country": "NL",
-    "status": "available",
-    "reason": "Vrij verkrijgbaar",
-    "detail": "Antihistaminicum bij allergie",
-    "alternatives": ["Loratadine"]
-  },
-  {
-    "name": "Pregabaline 75 mg",
+    "name": "Xanax 0.5 mg",
     "country": "NL",
     "status": "limited",
     "reason": "Beperkt leverbaar",
-    "detail": "Afhankelijk van fabrikant. Gebruikt bij neuropathie en angst.",
-    "alternatives": ["Gabapentine"]
+    "detail": "Alprazolam merkvariant",
+    "alternatives": ["Alprazolam TEVA", "Generiek Alprazolam"]
+  },
+  {
+    "name": "Valium 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar via Roche",
+    "detail": "Diazepam merkvariant",
+    "alternatives": ["Diazepam TEVA", "Stesolid"]
+  },
+  {
+    "name": "Temesta 1 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar via Pfizer",
+    "detail": "Lorazepam merkvariant",
+    "alternatives": ["Lorazepam TEVA", "SANDOZ Lorazepam"]
+  },
+  {
+    "name": "Zoloft 50 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "SSRI bij depressie",
+    "detail": "Sertraline merkvariant",
+    "alternatives": ["Sertraline TEVA", "Sertraline MYLAN"]
+  },
+  {
+    "name": "Wellbutrin 150 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Gebruik bij depressie en rookstop",
+    "detail": "Bupropion merkvariant",
+    "alternatives": ["Bupropion TEVA", "Zyban"]
+  },
+  {
+    "name": "Remeron 30 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar via Organon",
+    "detail": "Mirtazapine merkvariant",
+    "alternatives": ["Mirtazapine TEVA"]
+  },
+  {
+    "name": "Panadol 500 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Vrij verkrijgbaar",
+    "detail": "Paracetamol merkvariant",
+    "alternatives": ["Paracetamol TEVA", "Sinaspril"]
+  },
+  {
+    "name": "Tramal 50 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkte distributie",
+    "detail": "Tramadol merkvariant",
+    "alternatives": ["Tramadol TEVA", "Tramadol MYLAN"]
+  },
+  {
+    "name": "Oxycontin 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Langwerkende oxycodon",
+    "detail": "Leverbaar via Mundipharma",
+    "alternatives": ["Oxynorm", "Oxycodon TEVA"]
+  },
+  {
+    "name": "Zyrtec 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Vrij verkrijgbaar",
+    "detail": "Cetirizine merkvariant",
+    "alternatives": ["Cetirizine TEVA", "Cetirizine MYLAN"]
+  },
+  {
+    "name": "Claritine 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Vrij verkrijgbaar",
+    "detail": "Loratadine merkvariant",
+    "alternatives": ["Loratadine TEVA"]
+  },
+  {
+    "name": "Lyrica 75 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkt leverbaar",
+    "detail": "Pregabaline merkvariant",
+    "alternatives": ["Pregabaline TEVA", "Gabapentine"]
+  },
+  {
+    "name": "Neurontin 300 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar via Pfizer",
+    "detail": "Gabapentine merkvariant",
+    "alternatives": ["Gabapentine TEVA"]
   }
 ]
