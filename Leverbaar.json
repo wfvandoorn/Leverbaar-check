@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Oxazepam 10 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkt leverbaar",
+    "detail": "Productieproblemen",
+    "alternatives": ["Diazepam 5 mg", "Lorazepam 1 mg"]
+  },
+  {
+    "name": "Diazepam 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar bij groothandel",
+    "detail": "",
+    "alternatives": []
+  },
+  {
+    "name": "Lorazepam 1 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Ruim beschikbaar",
+    "detail": "Geen meldingen",
+    "alternatives": ["Oxazepam", "Diazepam"]
+  },
+  {
+    "name": "Methylfenidaat 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar",
+    "detail": "Verkrijgbaar als tablet en retardvorm",
+    "alternatives": ["Concerta", "Equasym"]
+  },
+  {
+    "name": "Bupropion 150 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar via meerdere fabrikanten",
+    "detail": "Wordt gebruikt bij depressie en rookstop. Let op verhoogd risico op toevallen bij hoge dosering.",
+    "alternatives": ["Venlafaxine", "Sertraline"]
+  },
+  {
+    "name": "Sertraline 50 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar",
+    "detail": "SSRI, gebruikt bij depressie en angststoornissen",
+    "alternatives": ["Escitalopram", "Venlafaxine"]
+  },
+  {
+    "name": "Paracetamol 500 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Altijd beschikbaar",
+    "detail": "Vrij verkrijgbaar",
+    "alternatives": []
+  },
+  {
+    "name": "Tramadol 50 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkte distributie",
+    "detail": "Sommige groothandels hebben vertraging",
+    "alternatives": ["Oxycodon", "Paracetamol-codeïne"]
+  },
+  {
+    "name": "Cetirizine 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Vrij verkrijgbaar",
+    "detail": "Antihistaminicum bij allergie",
+    "alternatives": ["Loratadine"]
+  },
+  {
+    "name": "Pregabaline 75 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkt leverbaar",
+    "detail": "Afhankelijk van fabrikant. Gebruikt bij neuropathie en angst.",
+    "alternatives": ["Gabapentine"]
+  }
+]
